@@ -8,6 +8,3 @@ Nice things:
 - 💬 Ask me about anything, I'm happy to be able to help
 - 📫 How to reach me: https://www.instagram.com/weslley_oliveira19
 
-! [E<a href= "https://github.com/anuraghazra/convoychat">
-  <img align = " center " src = " https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat " />
-</a>statísticas do github de Anurag] (https://github-readme-stats.vercel.app/api ? Username = weslley19 & show_icons = true & theme = radical )
