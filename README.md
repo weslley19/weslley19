@@ -45,13 +45,8 @@ const weslley: Developer = {
 ### 📊 Estatísticas e Desempenho
 
 <div align="center">
-    <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=weslley19&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=weslley19&theme=dark&hide_border=false" alt="Github Streak" />=
 </div>
-<br/ >
 
 ---
 
