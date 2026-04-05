@@ -4,7 +4,7 @@
 
 ### 🚀 Sobre Mim
 
-Sou um desenvolvedor apaixonado por transformar desafios complexos em código limpo e eficiente. Atualmente, foco minhas, criando soluções tecnológicas que conectam o campo ao futuro digital.
+Sou um desenvolvedor apaixonado por transformar desafios complexos em código limpo e eficiente. Atualmente, foco minhas energias criando soluções tecnológicas que conectam o campo ao futuro digital.
 
 ### 🚀 Developer
 
