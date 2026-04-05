@@ -2,6 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=250&section=header&text=Weslley%20Oliveira&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20&descAlignY=55&descSize=20" width="100%" />
 </div>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Ol%C3%A1%2C+eu+sou+Weslley" alt="Typing SVG" />
+
+
 ### 🚀 Sobre Mim
 
 Sou um desenvolvedor apaixonado por transformar desafios complexos em código limpo e eficiente. Atualmente, foco minhas energias criando soluções tecnológicas que conectam o campo ao futuro digital.
@@ -40,18 +43,13 @@ const weslley: Developer = {
 
 ### 📊 Estatísticas e Desempenho
 
-<table>
-  <tr>
-    <td>
-      <br />
-      <img
+<div align="center">
+  <img
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=weslley19&theme=dark&hide_border=false"
         alt="Github Stats"
       />
-    </td>
-  </tr>
-</table>
+</div>
 
 ---
 
