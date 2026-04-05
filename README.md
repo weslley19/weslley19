@@ -40,12 +40,18 @@ const weslley: Developer = {
 
 ### 📊 Estatísticas e Desempenho
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weslley19&theme=dracula&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslley19&theme=dracula&hide_border=true&layout=compact" />
-</div>
-
-> **Nota:** Se as estatísticas não aparecerem de imediato, pode ser uma instabilidade temporária no servidor do Vercel. Tente atualizar a página em alguns instantes.
+<table>
+  <tr>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=weslley19&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
